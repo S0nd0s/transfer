@@ -1,16 +1,3 @@
-/**
-
- * @ Author: Mariam Raouf, Mark Nagy
-
- * @ Create Time: 2023-12-6 
-
- * @ Modified by: George Bahaa
-
- * @ Modified time: 2024-01-28 06:02:09
-
- * @ Description: handling transmission of mqtt 
-
- */
 
 
 
